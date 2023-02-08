@@ -1,0 +1,172 @@
+[
+ {
+  "id": 1,
+  "name": "Мужские кроссовки Nike Air Force 1 '07'",
+  "price": 330,
+  "imageUrl": "/img/Sneakers/1.webp"
+ },
+ {
+  "id": 2,
+  "name": "Женские кроссовки Nike Air Force 1 Shadow",
+  "price": 350,
+  "imageUrl": "/img/Sneakers/11.webp"
+ },
+ {
+  "id": 3,
+  "name": "Мужские ботинки HELLY HANSEN BOWSTRING PRIMALOFT",
+  "price": 530,
+  "imageUrl": "/img/Sneakers/21.webp"
+ },
+ {
+  "id": 4,
+  "name": "Женские сапоги UGG BAILEY BOW II",
+  "price": 570,
+  "imageUrl": "/img/Sneakers/31.webp"
+ },
+ {
+  "id": 5,
+  "name": "Женские кеды CONVERSE WEAPON CX",
+  "price": 280,
+  "imageUrl": "/img/Sneakers/41.webp"
+ },
+ {
+  "id": 6,
+  "name": "Женские кроссовки Under Armour",
+  "price": 195,
+  "imageUrl": "/img/Sneakers/51.webp"
+ },
+ {
+  "id": 7,
+  "name": "Мужские сапоги HELLY HANSEN ISOLA COURT",
+  "price": 360,
+  "imageUrl": "/img/Sneakers/61.webp"
+ },
+ {
+  "id": 8,
+  "name": "Мужские сланцы Puma Divecat",
+  "price": 71,
+  "imageUrl": "/img/Sneakers/71.webp"
+ },
+ {
+  "id": 9,
+  "name": "Детские кеды Adidas ADVANTAGE K ",
+  "price": 100,
+  "imageUrl": "/img/Sneakers/100.webp"
+ },
+ {
+  "id": 10,
+  "name": "Мужские туфли Luciano Bellini",
+  "price": 360,
+  "imageUrl": "/img/Sneakers/101.webp"
+ },
+{
+  "id": 11,
+  "name": "Мужские туфли Hugo",
+  "price": 702,
+  "imageUrl": "/img/Sneakers/102.webp"
+ },
+{
+  "id": 12,
+  "name": "Женские туфли Tamaris",
+  "price": 150,
+  "imageUrl": "/img/Sneakers/103.webp"
+ },
+{
+  "id": 13,
+  "name": "Женские туфли Principe di Bologna",
+  "price": 960,
+  "imageUrl": "/img/Sneakers/104.webp"
+ },
+{
+  "id": 14,
+  "name": "Женские босоножки Vic Matie",
+  "price": 716,
+  "imageUrl": "/img/Sneakers/105.webp"
+ },
+{
+  "id": 15,
+  "name": "Женские кеды Puma Cali Dream",
+  "price": 389,
+  "imageUrl": "/img/Sneakers/106.webp"
+ },
+{
+  "id": 16,
+  "name": "Мужские кроссовки Puma Rise Nitro",
+  "price": 420,
+  "imageUrl": "/img/Sneakers/107.webp"
+ },
+{
+  "id": 17,
+  "name": "Мужские кроссовки Adidas Racer Lego",
+  "price": 330,
+  "imageUrl": "/img/Sneakers/108.webp"
+ },
+{
+  "id": 18,
+  "name": "Мужские кроссовки Reebok Zig Kinetica",
+  "price": 470,
+  "imageUrl": "/img/Sneakers/109.webp"
+ },
+{
+  "id": 19,
+  "name": "Женские кроссовки Reebok Classic Leather",
+  "price": 400,
+  "imageUrl": "/img/Sneakers/110.webp"
+ },
+{
+  "id": 20,
+  "name": "Женские кроссовки Reebok Zig Kinetica",
+  "price": 470,
+  "imageUrl": "/img/Sneakers/111.webp"
+ },
+{
+  "id": 21,
+  "name": "Женские сланцы Adidas Originals Adilette",
+  "price": 160,
+  "imageUrl": "/img/Sneakers/112.webp"
+ },
+{
+  "id": 22,
+  "name": "Мужские ботинки Roberto Piraloff",
+  "price": 280,
+  "imageUrl": "/img/Sneakers/113.webp"
+ },
+{
+  "id": 23,
+  "name": "Мужские тапочки Tommy Hilfiger",
+  "price": 227,
+  "imageUrl": "/img/Sneakers/114.webp"
+ },
+{
+  "id": 24,
+  "name": "Мужские кроссовки Nike Air Max Zephyr",
+  "price": 740,
+  "imageUrl": "/img/Sneakers/115.webp"
+ },
+{
+  "id": 25,
+  "name": "Женские тапочки Calvin Klein",
+  "price": 280,
+  "imageUrl": "/img/Sneakers/116.webp"
+ },
+{
+  "id": 26,
+  "name": "Женские ботфорты Vivian Royal",
+  "price": 255,
+  "imageUrl": "/img/Sneakers/117.webp"
+ },
+{
+  "id": 27,
+  "name": "Женские ботинки Tamaris",
+  "price": 285,
+  "imageUrl": "/img/Sneakers/118.webp"
+ },
+{
+  "id": 28,
+  "name": "Мужские сандалии Adidas Cyplex Ultra",
+  "price": 200,
+  "imageUrl": "/img/Sneakers/119.webp"
+ },
+
+
+]
